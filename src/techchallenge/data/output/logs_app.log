@@ -105,3 +105,73 @@
 2025-08-05 19:29:20,659 - INFO - Categorias carregadas com sucesso
 2025-08-05 19:29:20,659 - INFO - Perfomance: Metodo finalizado em 85271ms
 2025-08-05 19:29:20,660 - INFO - 127.0.0.1 - - [05/Aug/2025 19:29:20] "GET /api/v1/scraping/trigger HTTP/1.1" 200 -
+2025-08-05 20:05:24,201 - INFO - Iniciando Aplicacao
+2025-08-05 20:05:24,231 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 20:05:24,232 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 20:05:24,233 - INFO -  * Restarting with stat
+2025-08-05 20:05:25,502 - INFO - Iniciando Aplicacao
+2025-08-05 20:05:25,525 - WARNING -  * Debugger is active!
+2025-08-05 20:05:25,543 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 20:07:31,424 - INFO -  * Detected change in '/Users/mvmenezes/Documents/Aprendizado/Pos ML/fase01/tech_challenge_fase01/tech_challenge_fase01/src/techchallenge/app.py', reloading
+2025-08-05 20:07:31,602 - INFO -  * Restarting with stat
+2025-08-05 20:07:32,935 - INFO - Iniciando Aplicacao
+2025-08-05 20:07:32,959 - WARNING -  * Debugger is active!
+2025-08-05 20:07:32,974 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 20:14:16,012 - INFO - Iniciando Aplicacao
+2025-08-05 20:14:16,047 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-05 20:14:16,048 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 20:14:16,048 - INFO -  * Restarting with stat
+2025-08-05 20:14:17,259 - INFO - Iniciando Aplicacao
+2025-08-05 20:14:17,291 - WARNING -  * Debugger is active!
+2025-08-05 20:14:17,343 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 20:15:04,880 - INFO -  * Detected change in '/Users/mvmenezes/Documents/Aprendizado/Pos ML/fase01/tech_challenge_fase01/tech_challenge_fase01/src/techchallenge/run.py', reloading
+2025-08-05 20:15:05,054 - INFO -  * Restarting with stat
+2025-08-05 20:15:06,393 - INFO - Iniciando Aplicacao
+2025-08-05 20:15:06,424 - WARNING -  * Debugger is active!
+2025-08-05 20:15:06,439 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 20:15:14,307 - INFO - Iniciando Aplicacao
+2025-08-05 20:15:14,341 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5007
+2025-08-05 20:15:14,342 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 20:15:14,342 - INFO -  * Restarting with stat
+2025-08-05 20:15:15,533 - INFO - Iniciando Aplicacao
+2025-08-05 20:15:15,561 - WARNING -  * Debugger is active!
+2025-08-05 20:15:15,576 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 20:15:24,775 - INFO - 127.0.0.1 - - [05/Aug/2025 20:15:24] "[31m[1mGET /api/v1/categories HTTP/1.1[0m" 401 -
+2025-08-05 20:16:11,782 - INFO - Usuario marcus realizou login com sucesso.
+2025-08-05 20:16:11,782 - INFO - Perfomance: Metodo finalizado em 1ms
+2025-08-05 20:16:11,782 - INFO - 127.0.0.1 - - [05/Aug/2025 20:16:11] "POST /api/v1/auth/login HTTP/1.1" 200 -
+2025-08-05 20:16:25,539 - INFO - Healthcheck OK
+2025-08-05 20:16:25,539 - INFO - Perfomance: Metodo finalizado em 1ms
+2025-08-05 20:16:25,540 - INFO - 127.0.0.1 - - [05/Aug/2025 20:16:25] "GET /api/v1/health HTTP/1.1" 200 -
+2025-08-05 20:16:32,173 - INFO - Recuperando todos os livros do CSV
+2025-08-05 20:16:32,215 - INFO - Livros recuperados do CSV
+2025-08-05 20:16:32,227 - INFO - Livros retornados
+2025-08-05 20:16:32,227 - INFO - Perfomance: Metodo finalizado em 54ms
+2025-08-05 20:16:32,255 - INFO - 127.0.0.1 - - [05/Aug/2025 20:16:32] "GET /api/v1/books HTTP/1.1" 200 -
+2025-08-05 20:24:51,616 - INFO - Iniciando Aplicacao
+2025-08-05 20:24:51,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5007
+2025-08-05 20:24:51,653 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 20:24:51,654 - INFO -  * Restarting with stat
+2025-08-05 20:24:52,890 - INFO - Iniciando Aplicacao
+2025-08-05 20:24:52,917 - WARNING -  * Debugger is active!
+2025-08-05 20:24:52,934 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 20:37:12,921 - INFO - Iniciando Aplicacao
+2025-08-05 20:37:12,952 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5007
+2025-08-05 20:37:12,952 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 20:37:12,953 - INFO -  * Restarting with stat
+2025-08-05 20:37:14,180 - INFO - Iniciando Aplicacao
+2025-08-05 20:37:14,203 - WARNING -  * Debugger is active!
+2025-08-05 20:37:14,217 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 20:40:50,973 - INFO - Iniciando Aplicacao
+2025-08-05 20:40:51,002 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5007
+2025-08-05 20:40:51,002 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 20:40:51,003 - INFO -  * Restarting with stat
+2025-08-05 20:40:52,262 - INFO - Iniciando Aplicacao
+2025-08-05 20:40:52,284 - WARNING -  * Debugger is active!
+2025-08-05 20:40:52,299 - INFO -  * Debugger PIN: 134-847-761
