@@ -1,0 +1,61 @@
+2025-07-18 00:59:52,335 - INFO - Iniciando Aplicacao
+2025-07-18 00:59:52,361 - WARNING -  * Debugger is active!
+2025-07-18 00:59:52,377 - INFO -  * Debugger PIN: 512-837-003
+2025-07-18 01:00:02,031 - INFO - Recuperando todas as categorias do CSV
+2025-07-18 01:00:02,034 - INFO - Recuperada categorias do CSV
+2025-07-18 01:00:02,034 - INFO - Categorias nao encontradas
+2025-07-18 01:00:02,035 - INFO - 127.0.0.1 - - [18/Jul/2025 01:00:02] "[33mGET /api/v1/categories HTTP/1.1[0m" 404 -
+2025-07-18 01:00:06,717 - INFO - Recuperando todas as categorias do CSV
+2025-07-18 01:00:06,718 - INFO - Recuperada categorias do CSV
+2025-07-18 01:00:06,718 - INFO - Categorias nao encontradas
+2025-07-18 01:00:06,719 - INFO - 127.0.0.1 - - [18/Jul/2025 01:00:06] "[33mGET /api/v1/categories HTTP/1.1[0m" 404 -
+2025-07-18 01:00:22,504 - INFO -  * Detected change in '/Users/mvmenezes/Documents/Aprendizado/Pos ML/fase01/tech_challenge/techchallenge/src/techchallenge/services/etlservice.py', reloading
+2025-07-18 01:00:28,469 - INFO - Iniciando Aplicacao
+2025-07-18 01:00:28,495 - WARNING -  * Debugger is active!
+2025-07-18 01:00:28,509 - INFO -  * Debugger PIN: 512-837-003
+2025-07-18 01:01:52,588 - INFO - Requisitado raspagem de Website
+2025-07-18 01:03:15,265 - INFO - Salvando Livros no CSV
+2025-07-18 01:03:15,295 - INFO - Livros salvos no CSV
+2025-07-18 01:03:15,295 - INFO - Livros carregados com sucesso
+2025-07-18 01:03:15,295 - INFO - Recuperando todas as categorias por scraping
+2025-07-18 01:03:17,004 - INFO - Categorias recuperadas
+2025-07-18 01:03:17,004 - INFO - Salvando categorias na base de dados
+2025-07-18 01:03:17,006 - INFO - Categorias salvas na base de dados
+2025-07-18 01:03:17,006 - INFO - Categorias carregadas com sucesso
+2025-07-18 01:03:17,007 - INFO - 127.0.0.1 - - [18/Jul/2025 01:03:17] "GET /api/v1/scraping/trigger HTTP/1.1" 200 -
+2025-07-18 01:12:33,995 - INFO -  * Detected change in '/Users/mvmenezes/Documents/Aprendizado/Pos ML/fase01/tech_challenge/techchallenge/src/techchallenge/api/routes.py', reloading
+2025-07-18 01:12:59,739 - INFO - Iniciando Aplicacao
+2025-07-18 01:12:59,765 - WARNING -  * Debugger is active!
+2025-07-18 01:12:59,780 - INFO -  * Debugger PIN: 512-837-003
+2025-07-18 01:13:01,024 - INFO - Requisitado raspagem de Website
+2025-07-18 01:14:19,747 - INFO - 127.0.0.1 - - [18/Jul/2025 01:14:19] "[35m[1mGET /api/v1/scraping/trigger HTTP/1.1[0m" 500 -
+2025-07-18 01:15:02,047 - INFO -  * Detected change in '/Users/mvmenezes/Documents/Aprendizado/Pos ML/fase01/tech_challenge/techchallenge/src/techchallenge/services/etlservice.py', reloading
+2025-07-18 01:15:17,701 - INFO - Iniciando Aplicacao
+2025-07-18 01:15:17,727 - WARNING -  * Debugger is active!
+2025-07-18 01:15:17,744 - INFO -  * Debugger PIN: 512-837-003
+2025-07-18 01:15:17,770 - INFO - Requisitado raspagem de Website
+2025-07-18 01:16:38,106 - INFO - Salvando Livros no CSV
+2025-07-18 01:16:38,137 - INFO - Livros salvos no CSV
+2025-07-18 01:16:38,137 - INFO - Livros carregados com sucesso
+2025-07-18 01:16:38,137 - INFO - Recuperando todas as categorias por scraping
+2025-07-18 01:16:39,835 - INFO - Categorias recuperadas
+2025-07-18 01:16:39,836 - INFO - Salvando categorias na base de dados
+2025-07-18 01:16:39,837 - INFO - Categorias salvas na base de dados
+2025-07-18 01:16:39,837 - INFO - Categorias carregadas com sucesso
+2025-07-18 01:16:39,837 - INFO - Perfomance: Metodo finalizado em 82066.82896614075
+2025-07-18 01:16:39,838 - INFO - 127.0.0.1 - - [18/Jul/2025 01:16:39] "GET /api/v1/scraping/trigger HTTP/1.1" 200 -
+2025-07-18 01:19:09,636 - INFO -  * Detected change in '/Users/mvmenezes/Documents/Aprendizado/Pos ML/fase01/tech_challenge/techchallenge/src/techchallenge/api/routes.py', reloading
+2025-07-18 01:19:15,741 - INFO - Iniciando Aplicacao
+2025-07-18 01:19:15,766 - WARNING -  * Debugger is active!
+2025-07-18 01:19:15,781 - INFO -  * Debugger PIN: 512-837-003
+2025-07-18 01:19:15,999 - INFO - Requisitado raspagem de Website
+2025-07-18 01:20:38,693 - INFO - Salvando Livros no CSV
+2025-07-18 01:20:38,724 - INFO - Livros salvos no CSV
+2025-07-18 01:20:38,724 - INFO - Livros carregados com sucesso
+2025-07-18 01:20:38,724 - INFO - Recuperando todas as categorias por scraping
+2025-07-18 01:20:40,511 - INFO - Categorias recuperadas
+2025-07-18 01:20:40,511 - INFO - Salvando categorias na base de dados
+2025-07-18 01:20:40,512 - INFO - Categorias salvas na base de dados
+2025-07-18 01:20:40,512 - INFO - Categorias carregadas com sucesso
+2025-07-18 01:20:40,512 - INFO - Perfomance: Metodo finalizado em 84513ms
+2025-07-18 01:20:40,513 - INFO - 127.0.0.1 - - [18/Jul/2025 01:20:40] "GET /api/v1/scraping/trigger HTTP/1.1" 200 -
