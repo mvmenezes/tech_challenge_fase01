@@ -1,6 +1,6 @@
 import pandas as pd
-from scripts.etl_books import get_all_books as get_all_books_etl
-from scripts.etl_categories import get_all_categories as get_all_categories_etl
+from src.techchallenge.scripts.etl_books import get_all_books as get_all_books_etl
+from src.techchallenge.scripts.etl_categories import get_all_categories as get_all_categories_etl
 import numpy as np
 import os
 from sklearn.model_selection import train_test_split

@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from app.models import Book, Category
+from src.techchallenge.app.models import Book, Category
 import requests
 from dataclasses import asdict
 from concurrent.futures import ThreadPoolExecutor, as_completed

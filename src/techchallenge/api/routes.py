@@ -1,7 +1,7 @@
 from flask import jsonify, Blueprint, request
-from utils.jwt_utils import generate_token, token_mandatory, get_user_from_token
-from services.etlservice import get_all_books, get_all_categories, get_book_by_upc, get_book_by_search, get_book_overview
-from services.etlservice import get_category_overview,get_top_rated_books, get_training_data, get_book_by_min_and_max, get_all_books_from_scraping, get_all_categories_from_scraping
+from src.techchallenge.utils.jwt_utils import generate_token, token_mandatory, get_user_from_token
+from src.techchallenge.services.etlservice import get_all_books, get_all_categories, get_book_by_upc, get_book_by_search, get_book_overview
+from src.techchallenge.services.etlservice import get_category_overview,get_top_rated_books, get_training_data, get_book_by_min_and_max, get_all_books_from_scraping, get_all_categories_from_scraping
 import json
 import pandas as pd
 import logging, time

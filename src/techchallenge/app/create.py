@@ -1,6 +1,6 @@
 
 from flask import Flask
-from api.routes import api
+from src.techchallenge.api.routes import api
 from flasgger import Swagger
 import jwt
 import datetime, os
