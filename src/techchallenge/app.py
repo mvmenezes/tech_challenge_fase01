@@ -5,7 +5,7 @@ logging.basicConfig(filename=os.path.join(os.getcwd(),"src","techchallenge","dat
 
 app = create_app()
 
-
+port = int(os.environ.get("PORT", 5000))
 if __name__ == "__main__":
     logging.info("Iniciando Aplicacao")
-    app.run(debug=True, port=5007)
+    app.run(debug=True, port=port)

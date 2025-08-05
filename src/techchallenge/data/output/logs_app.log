@@ -59,3 +59,49 @@
 2025-07-18 01:20:40,512 - INFO - Categorias carregadas com sucesso
 2025-07-18 01:20:40,512 - INFO - Perfomance: Metodo finalizado em 84513ms
 2025-07-18 01:20:40,513 - INFO - 127.0.0.1 - - [18/Jul/2025 01:20:40] "GET /api/v1/scraping/trigger HTTP/1.1" 200 -
+2025-08-05 19:25:15,222 - INFO - Iniciando Aplicacao
+2025-08-05 19:25:15,277 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5007
+2025-08-05 19:25:15,278 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 19:25:15,282 - INFO -  * Restarting with stat
+2025-08-05 19:25:16,691 - INFO - Iniciando Aplicacao
+2025-08-05 19:25:16,714 - WARNING -  * Debugger is active!
+2025-08-05 19:25:16,743 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 19:25:50,809 - INFO -  * Detected change in '/Users/mvmenezes/Documents/Aprendizado/Pos ML/fase01/tech_challenge_fase01/tech_challenge_fase01/src/techchallenge/api/routes.py', reloading
+2025-08-05 19:25:50,982 - INFO -  * Restarting with stat
+2025-08-05 19:25:52,282 - INFO - Iniciando Aplicacao
+2025-08-05 19:25:52,304 - WARNING -  * Debugger is active!
+2025-08-05 19:25:52,321 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 19:25:54,412 - INFO -  * Detected change in '/Users/mvmenezes/Documents/Aprendizado/Pos ML/fase01/tech_challenge_fase01/tech_challenge_fase01/src/techchallenge/api/routes.py', reloading
+2025-08-05 19:25:54,597 - INFO -  * Restarting with stat
+2025-08-05 19:25:55,820 - INFO - Iniciando Aplicacao
+2025-08-05 19:25:55,846 - WARNING -  * Debugger is active!
+2025-08-05 19:25:55,861 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 19:26:12,388 - INFO - 127.0.0.1 - - [05/Aug/2025 19:26:12] "[31m[1mGET /api/v1/scraping/trigger HTTP/1.1[0m" 401 -
+2025-08-05 19:27:19,883 - INFO - Iniciando Aplicacao
+2025-08-05 19:27:19,912 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5007
+2025-08-05 19:27:19,912 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 19:27:19,914 - INFO -  * Restarting with stat
+2025-08-05 19:27:21,099 - INFO - Iniciando Aplicacao
+2025-08-05 19:27:21,119 - WARNING -  * Debugger is active!
+2025-08-05 19:27:21,134 - INFO -  * Debugger PIN: 134-847-761
+2025-08-05 19:27:26,146 - INFO - 127.0.0.1 - - [05/Aug/2025 19:27:26] "[31m[1mGET /api/v1/scraping/trigger HTTP/1.1[0m" 401 -
+2025-08-05 19:27:26,841 - INFO - 127.0.0.1 - - [05/Aug/2025 19:27:26] "[31m[1mGET /api/v1/scraping/trigger HTTP/1.1[0m" 401 -
+2025-08-05 19:27:31,348 - INFO - 127.0.0.1 - - [05/Aug/2025 19:27:31] "[31m[1mPOST /api/v1/auth/refresh HTTP/1.1[0m" 401 -
+2025-08-05 19:27:32,153 - INFO - 127.0.0.1 - - [05/Aug/2025 19:27:32] "[31m[1mPOST /api/v1/auth/refresh HTTP/1.1[0m" 401 -
+2025-08-05 19:27:35,370 - INFO - 127.0.0.1 - - [05/Aug/2025 19:27:35] "[31m[1mPOST /api/v1/auth/refresh HTTP/1.1[0m" 401 -
+2025-08-05 19:27:39,515 - INFO - Usuario marcus realizou login com sucesso.
+2025-08-05 19:27:39,515 - INFO - Perfomance: Metodo finalizado em 1ms
+2025-08-05 19:27:39,516 - INFO - 127.0.0.1 - - [05/Aug/2025 19:27:39] "POST /api/v1/auth/login HTTP/1.1" 200 -
+2025-08-05 19:27:55,388 - INFO - Requisitado raspagem de Website
+2025-08-05 19:29:18,854 - INFO - Salvando Livros no CSV
+2025-08-05 19:29:18,883 - INFO - Livros salvos no CSV
+2025-08-05 19:29:18,884 - INFO - Livros carregados com sucesso
+2025-08-05 19:29:18,884 - INFO - Recuperando todas as categorias por scraping
+2025-08-05 19:29:20,657 - INFO - Categorias recuperadas
+2025-08-05 19:29:20,657 - INFO - Salvando categorias na base de dados
+2025-08-05 19:29:20,659 - INFO - Categorias salvas na base de dados
+2025-08-05 19:29:20,659 - INFO - Categorias carregadas com sucesso
+2025-08-05 19:29:20,659 - INFO - Perfomance: Metodo finalizado em 85271ms
+2025-08-05 19:29:20,660 - INFO - 127.0.0.1 - - [05/Aug/2025 19:29:20] "GET /api/v1/scraping/trigger HTTP/1.1" 200 -
