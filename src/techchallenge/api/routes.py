@@ -440,3 +440,6 @@ def training_data():
     json_obj = training_df.to_json(orient="records", force_ascii=False)
     logger.info(f"Perfomance: Metodo finalizado em {round((time.time()-begin)*1000)}ms")
     return jsonify(json.loads(json_obj))
+
+
+
